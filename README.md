@@ -26,7 +26,7 @@
 
 ## 🛠️ Development Info
 
-- Developed by _(Your Name or GitHub handle)_
+- Developed by _(Noni Gopal Chandro)_
 - Built on **Android Studio / VS Code**
 - Supports Android API Level **21+ (Lollipop)**
 
