@@ -52,4 +52,4 @@ flutter pub get
 
 # Run the app
 flutter run
->>>>>>> 02537c88e5f5e1527b49c1cfb2f8299e928c7b7a
+
