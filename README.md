@@ -1,21 +1,7 @@
-<<<<<<< HEAD
 # calculation
 
 This appliaction for calculation of X and Y value for CY Molding (BD) IXO.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # 🧮 XY Calculator
 
 **XY Calculator** is a lightweight and user-friendly calculator app built to handle daily arithmetic calculations with precision and ease. It supports operations such as addition, subtraction, multiplication, division, percentage, and more — all wrapped in a simple interface suitable for users of all ages.
